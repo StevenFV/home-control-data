@@ -1,6 +1,6 @@
 # home-control-data
 
-This repository contains the setup configuration for services Zigbee2MQTT and EMQX. This backend server have to be used with (Home-Control-App)[https://github.com/StevenFV/home-control-app].  
+This repository contains the setup configuration for services Zigbee2MQTT and EMQX. This backend server have to be used with [Home-Control-App](https://github.com/StevenFV/home-control-app).  
 
 **Prerequisites**
 
